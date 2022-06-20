@@ -1,4 +1,4 @@
 ---
-title: "Your blog post title"
-date: YYYY-MM-DD
+title: "MY WEB"
+date: 2022-06-20
 ---
